@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\obj\Debug\net5.0\Cadastro de Séries.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\obj\Debug\net5.0\Cadastro de Séries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\obj\Debug\net5.0\Cadastro de Séries.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\obj\Debug\net5.0\Cadastro de Séries.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\obj\Debug\net5.0\Cadastro de Séries.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\bin\Debug\net5.0\Cadastro de Séries.exe
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\bin\Debug\net5.0\Cadastro de Séries.deps.json
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\bin\Debug\net5.0\Cadastro de Séries.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\bin\Debug\net5.0\Cadastro de Séries.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\bin\Debug\net5.0\Cadastro de Séries.dll
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\bin\Debug\net5.0\ref\Cadastro de Séries.dll
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\bin\Debug\net5.0\Cadastro de Séries.pdb
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\obj\Debug\net5.0\Cadastro de Séries.dll
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\obj\Debug\net5.0\ref\Cadastro de Séries.dll
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\obj\Debug\net5.0\Cadastro de Séries.pdb
+C:\Users\T-Gamer\source\repos\Cadastro de Séries\Cadastro de Séries\obj\Debug\net5.0\Cadastro de Séries.genruntimeconfig.cache
